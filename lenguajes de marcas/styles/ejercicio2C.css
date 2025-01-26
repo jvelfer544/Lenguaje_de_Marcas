@@ -1,0 +1,33 @@
+.parrafo1 {
+  display: block;
+  font-size: small;
+  font-family:Arial, Helvetica, sans-serif;
+  text-align: center;
+}
+.parrafo2 {
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: smaller;
+  color: blue;
+}
+.parrafo3 {
+  font-family: 'Times New Roman', Times, serif;
+  font-size: small;
+  color: white;
+  background-color: black;
+}
+.parrafo4 {
+  font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif ;
+  font-size: smaller;
+}
+.linea-discontinua {
+  border: none;
+  border-top: 1px dashed black;
+}
+h4 {
+  color: red;
+  font-size: larger;
+}
+#predeterminado {
+  font-size: x-small;
+  text-align: center;
+}
